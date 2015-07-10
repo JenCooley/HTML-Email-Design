@@ -12,10 +12,10 @@ The process I used in this project was as follows:
    Use XHTML because gmail and outlook use it by default 
 4. Added the styling (CSS2.1 INLINE CSS!) Mailchimp can insert inline CSS for you if you write it in the head
 5. Added responsive media queries (adjusted width, changed font-sizes, change layout of columns)
-      "one eyeball and one thumb at arms length" is the general rule. (people generally use one hand on phone and two          on tablet)
-      16px minimum font size
-      call to action button touch targets at least 46px squared
-      avoided clustering several links together in copy to prevent accidental clicking
+      -"one eyeball and one thumb at arms length" is the general rule. (people generally use one hand on phone and two          on tablet)
+      -16px minimum font size
+      -call to action button touch targets at least 46px squared
+      -avoided clustering several links together in copy to prevent accidental clicking
 6. Testing - test always in outlook, yahoo, gmail, and aol
     -create template in mailchimp (create campaign)
     -choose code your own and paste in the code
